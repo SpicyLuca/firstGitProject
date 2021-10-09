@@ -80,6 +80,8 @@ int main(){
 	}
 	while(1){
 		riduci();
+
+		printf("this another mistake");
 		apri();
 	}
 
