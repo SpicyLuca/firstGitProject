@@ -79,6 +79,7 @@ int main(){
 		}
 	}
 	while(1){
+		printf("working a new feature 1...\n");
 		riduci();
 		apri();
 	}
