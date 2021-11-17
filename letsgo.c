@@ -8,6 +8,7 @@
 #define CAR 219
 #define L 11
 
+/*added comment from repository 1 (machine 1) */
 void color(int x){
 	HANDLE hCon;
 	hCon = GetStdHandle(STD_OUTPUT_HANDLE);
